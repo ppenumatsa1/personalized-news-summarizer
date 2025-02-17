@@ -1,0 +1,16 @@
+FastAPI
+SQLAlchemy
+sqlalchemy-utils
+asyncpg
+pydantic
+pydantic-settings
+uvicorn
+pytest
+pytest-asyncio
+httpx
+psycopg2
+python-dotenv
+newspaper3k
+loguru
+openai
+lxml_html_clean
